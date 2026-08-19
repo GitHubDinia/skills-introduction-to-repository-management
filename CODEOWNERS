@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @GitHubDinia
+/src/backend/database.py      @GitHubDinia
+/src/backend/routers/auth.py  @GitHubDinia
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @GitHubDinia
